@@ -1,2 +1,1 @@
-Hunger-City:Windows,Linux;
-Azeric:NA;
+Hunger-City::Hunger City::1.0.0::Survive in the city after losing your house and no food as you meet retaliation from every corner::{Linux,Windows};;
